@@ -54,6 +54,14 @@ Follow these step-by-step instructions to set up and run the application on your
    ```
    http://localhost:8501
    ```
+   
+3. **Access the deployed application**
+
+   You can also access the deployed version of this application at:
+   
+   ```
+   https://ninetyonecasestudy-desireddy.streamlit.app/
+   ```
 
 ## Application Structure
 
