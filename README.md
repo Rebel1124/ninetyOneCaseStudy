@@ -39,12 +39,6 @@ Follow these step-by-step instructions to set up and run the application on your
 
    This command installs all the required Python libraries specified in the requirements.txt file.
 
-4. **Navigate intto the code directory**
-
-   ```
-   cd code
-   ```
-
 ### Running the Application
 
 1. **Start the Streamlit application**
